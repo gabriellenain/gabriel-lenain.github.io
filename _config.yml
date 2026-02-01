@@ -1,8 +1,7 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
-theme: just-the-docs
+title: Gabriel Lenain
+description: Personal research page
 
-url: https://just-the-docs.github.io
+url: "https://gabriel-lenain.github.io"
+baseurl: ""   
+remote_theme: just-the-docs/just-the-docs
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
