@@ -4,4 +4,7 @@ description: Personal research page
 url: "https://gabriel-lenain.github.io"
 baseurl: ""   
 remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+
 
